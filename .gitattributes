@@ -1,2 +1,2 @@
-*.cs linguist-language=lua#
-*.ico linguist-language=lua#
+*.cs linguist-language=lua
+*.ico linguist-language=lua
