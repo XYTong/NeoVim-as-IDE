@@ -32,16 +32,16 @@ See more features [here](https://github.com/neovim/neovim/releases)
 sudo dnf remove neovim
 ```
 2. Then install the latest NeoVim (now is v0.6) form [NeoVim](https://github.com/neovim/neovim/releases):
-+ Download nvim.appimage
-+ ```bash
+   + Download nvim.appimage
+   + ```bash
 Run chmod u+x nvim.appimage && ./nvim.appimage
   ```
-  + If your system does not have FUSE you can extract the appimage:
+   + If your system does not have FUSE you can extract the appimage:
   ```bash
   ./nvim.appimage --appimage-extract
 ./squashfs-root/AppRun --version
   ```
-  - Optional: exposing nvim globally. 
+   + Optional: exposing nvim globally. 
   ```bash
 mv squashfs-root /
 ln -s /squashfs-root/AppRun /usr/bin/nvim
