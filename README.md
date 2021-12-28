@@ -33,9 +33,7 @@ sudo dnf remove neovim
 ```
 2. Then install the latest NeoVim (now is v0.6) form [NeoVim](https://github.com/neovim/neovim/releases):
    + Download nvim.appimage
-   + ```bash
-Run chmod u+x nvim.appimage && ./nvim.appimage
-  ```
+   + Run ``chmod u+x nvim.appimage && ./nvim.appimage``  
    + If your system does not have FUSE you can extract the appimage:
   ```bash
   ./nvim.appimage --appimage-extract
