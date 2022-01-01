@@ -24,7 +24,7 @@ See more features [here](https://github.com/neovim/neovim/releases)
 5. Embedded terminal inside Nvim, floating window, multi-threaded asynchronous IO and more...
 
 ## Show Case
-![show case](https://xiangyutong.makelove.expert/wp-content/uploads/2021/12/show-nvim.png "show case")
+![show case](https://xiangyutong.eu/wp-content/uploads/2021/12/show-nvim.png "show case")
 
 ## Prerequisities
 1. First uninstall the old version of NeoVim. Example in fedora"
